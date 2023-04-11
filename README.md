@@ -82,7 +82,7 @@ My solutions of all the SQL challenges for all easy, medium and hard challenges 
 
 | Number |                                     Challenges                                     |                      Solutions                     |
 |:------:|:----------------------------------------------------------------------------------:|:--------------------------------------------------:|
-|    1   | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [SQL](Advanced%20Join/SQL%20PROJECT%20PLANNING.sql) |
+|    1   | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [SQL](Advanced%20Join/SQL%20Project%20Planning.sql) |
 |    2   | [Placements](https://www.hackerrank.com/challenges/placements/problem)             | [SQL](Advanced%20Join/Placements.sql)               |
 |    3   | [Symmetric Pairs](https://www.hackerrank.com/challenges/Symmetric-Pairs/problem)   | [SQL](Advanced%20Join/Symmetric%20Pairs.sql)        |
 |    4   | [Interviews](https://www.hackerrank.com/challenges/interviews/problem)             | [SQL](Advanced%20Join/Interviews.sql)               |
